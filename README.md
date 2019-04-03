@@ -21,12 +21,12 @@ Arch: `sudo pacman -S python-pyqt5 sox`
 `sudo pip install pyvoicechanger`
 
 
+**To Run The App:** `pyvoicechanger.py`
+
+
 # Errors
 - If you got `sudo: pip: command not found` try `sudo apt-get install python-pip`
 - If you got `pyvoicechanger requires Python '>=3.6' but the running Python is 2.7.15` try `sudo pip3 install pyvoicechanger`
-``
-
-**To Run The App:** `pyvoicechanger.py`
 
 
 # Requisites
