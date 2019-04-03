@@ -10,22 +10,23 @@ pyvoicechanger
 
 
 # Install
-
+## First Install Python:
 Debian/Ubuntu: `sudo apt-get install sox python3-pyqt5`
 
 Centos/RedHat: `sudo yum install python3-qt5 sox`
 
 Arch: `sudo pacman -S python-pyqt5 sox`
 
+## Second Install The Script:
+`sudo pip install pyvoicechanger`
+
+
 # Errors
 - If you got `sudo: pip: command not found` try `sudo apt-get install python-pip`
 - If you got `pyvoicechanger requires Python '>=3.6' but the running Python is 2.7.15` try `sudo pip3 install pyvoicechanger`
+``
 
-```
-sudo pip install pyvoicechanger
-```
-
-**Run:** `pyvoicechanger.py`
+**To Run The App:** `pyvoicechanger.py`
 
 
 # Requisites
