@@ -17,6 +17,10 @@ Centos/RedHat: `sudo yum install python3-qt5 sox`
 
 Arch: `sudo pacman -S python-pyqt5 sox`
 
+# Errors
+- If you got `sudo: pip: command not found` try `sudo apt-get install python-pip`
+- If you got `pyvoicechanger requires Python '>=3.6' but the running Python is 2.7.15` try `sudo pip3 install pyvoicechanger`
+
 ```
 sudo pip install pyvoicechanger
 ```
