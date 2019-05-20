@@ -12,7 +12,7 @@ pyvoicechanger
 # Install
 - sudo apt-get install sox python3-pyqt5
 - pip3.7 install PyQt5 --user
-- udo pip3.7 install pyvoicechanger
+- sudo pip3.7 install pyvoicechanger
 
 
 **To Run The App:** `pyvoicechanger.py`
